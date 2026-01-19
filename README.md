@@ -15,3 +15,6 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 ## ⭐ Tecnologias com as quais já tive contato ⭐
 - Python
 - Php
+
+## Status
+[![Status do perfil do Vitor Hugo](https://github-readme-stats.vercel.app/api?username=vitorhugohu&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
