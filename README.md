@@ -18,9 +18,11 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 - Python
 - Php
 - JavaScript
+- Html
+- Css
   
 
 ## 🔍 Me encontre
 
-- Instagram: vt_wwz
+- :star: Instagram: vt_wwz
 - :calling: (85) 99668-1564
