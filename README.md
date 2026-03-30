@@ -8,20 +8,19 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 
 - 😄 Pronomes: Ele/dele.
 - 💬 Fale comigo sobre: Frameworks!
-- 👯 Sempre procuro ajudar de alguma forma.
+- 👯 Sempre procuro estudar algo novo.
 
 ## 🌟 Tecnologias com as quais estou estudando atualmente 🌟
-- HTML
-- CSS
-- JavaScript
+- React
+- Java
 
 ## ⭐ Tecnologias com as quais já tive contato ⭐
 - Python
 - Php
-
-## 📋 Status
-[![Status do perfil do Vitor Hugo](https://github-readme-stats.vercel.app/api?username=vitorhugohu&hide=prs,issues,contribs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- JavaScript
+  
 
 ## 🔍 Me encontre
 
-- (85) 99668-1564
+- Instagram: vt_wwz
+- :calling: (85) 99668-1564
