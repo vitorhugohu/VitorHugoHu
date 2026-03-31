@@ -11,7 +11,6 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 - 👯 Sempre procuro estudar algo novo.
 
 ## 🌟 Tecnologias com as quais estou estudando atualmente 🌟
-- React
 - Java
 
 ## ⭐ Tecnologias com as quais já tive contato ⭐
@@ -20,7 +19,7 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 - JavaScript
 - Html
 - Css
-  
+- React
 
 ## 🔍 Me encontre
 
