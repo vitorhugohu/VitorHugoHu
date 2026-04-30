@@ -20,6 +20,7 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 - Html
 - Css
 - React
+- Express do Node
 
 ## 🔍 Me encontre
 
