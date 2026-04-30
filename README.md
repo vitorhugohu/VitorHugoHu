@@ -24,5 +24,6 @@ Meu nome é Vitor Hugo. Estou atualmente cursando o curso de Desenvolvimento de 
 
 ## 🔍 Me encontre
 
+- :star: Email: vitorhuabmo@gmail.com
 - :star: Instagram: vt_wwz
 - :calling: (85) 99668-1564
